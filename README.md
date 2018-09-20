@@ -9,8 +9,8 @@ My environment setup guide. **Current setup Mac**.
 # Apps
 - https://github.com/brave/brave-browser - check releases page
 - https://www.sublimetext.com/
+- https://www.sublimemerge.com/
 - https://www.dropbox.com/install
-- https://desktop.github.com/
 - https://www.getpostman.com/apps
 - https://todoist.com/downloads
 - https://www.mowglii.com/itsycal/
