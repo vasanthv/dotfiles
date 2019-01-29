@@ -12,8 +12,8 @@ My environment setup guide. **Current setup Mac**.
 - https://www.sublimemerge.com/
 - https://www.dropbox.com/install
 - https://www.getpostman.com/apps
-- https://workflowy.com/downloads/mac/
 - https://www.mowglii.com/itsycal/
+- https://krisp.ai/
 - https://www.gimp.org/
 - https://robomongo.org/
 
