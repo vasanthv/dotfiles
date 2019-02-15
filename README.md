@@ -16,7 +16,7 @@ My environment setup guide. **Current setup Mac**.
 - https://krisp.ai/
 - https://www.gimp.org/
 - https://robomongo.org/
-- https://todoist.com/
+- https://workflowy.com/
 
 - https://getkap.co/ - optional
 - https://numi.io/ - optional
