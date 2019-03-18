@@ -9,3 +9,4 @@ https://packagecontrol.io/installation
 - https://packagecontrol.io/packages/WordHighlight
 - https://packagecontrol.io/packages/BracketHighlighter
 - https://packagecontrol.io/packages/JavaScript%20Enhancements
+https://packagecontrol.io/packages/SublimeGit
