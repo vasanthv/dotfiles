@@ -1,24 +1,30 @@
 # dotfiles
-My environment setup guide. **Current setup Mac**.
+
+My environment setup guide. **Current Mac setup**.
 
 # Packages
-- https://nodejs.org/en/
-- https://brew.sh/
-- https://download.docker.com/mac/stable/Docker.dmg --  not mandatory
+
+-   https://nodejs.org/en/
+-   https://brew.sh/
+    -   MongoDb
 
 # Apps
-- https://github.com/brave/brave-browser - check releases page
-- https://www.sublimetext.com/
-- https://www.sublimemerge.com/
-- https://www.dropbox.com/install
-- https://www.getpostman.com/apps
-- https://www.mowglii.com/itsycal/
-- https://krisp.ai/
-- https://www.gimp.org/
-- https://robomongo.org/
-- https://workflowy.com/
 
-- https://getkap.co/ - optional
-- https://numi.io/ - optional
+-   https://www.sublimetext.com/
+-   https://www.sublimemerge.com/
+-   https://www.dropbox.com/install
+-   https://www.getpostman.com/apps
+-   http://colorslurp.com/
+-   https://apps.apple.com/us/app/dato/id1470584107?mt=12 || https://www.mowglii.com/itsycal/
+-   https://maccy.app/
+-   https://www.gimp.org/
+-   https://robomongo.org/
 
-- Airflow - download & install from my dropbox
+-   https://getkap.co/ - optional
+-   https://numi.io/ - optional
+
+-   https://mac.eltima.com/download-manager.html (Folx)
+-   https://desktop.telegram.org/
+-   https://www.whatsapp.com/download
+-   https://apps.apple.com/us/app/twitter/id1482454543?mt=12 (Twitter)
+-
