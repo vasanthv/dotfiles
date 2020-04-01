@@ -24,7 +24,7 @@
         // Indent with tabs, overrides `indent_size` and `indent_char`
         "indent_with_tabs": true,
         // Maximum number of line breaks to be preserved in one chunk (0 disables)
-        "max_preserve_newlines": 1,
+        "max_preserve_newlines": 2,
         // Whether existing line breaks before elements should be preserved (only works before elements, not inside tags or for text)
         "preserve_newlines": true,
         // Lines should wrap at next opportunity after this number of characters (0 disables)
