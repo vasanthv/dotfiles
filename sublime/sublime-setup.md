@@ -13,5 +13,9 @@ https://packagecontrol.io/installation
 -   https://packagecontrol.io/packages/Vue%20Syntax%20Highlight
 -   https://packagecontrol.io/packages/SublimeGit
 -   https://packagecontrol.io/packages/JavaScript%20Enhancements (this has conflict with typescript plugin)
+-	https://packagecontrol.io/packages/SublimeLinter
+-	https://packagecontrol.io/packages/SublimeLinter-eslint
+-	https://packagecontrol.io/packages/tern_for_sublime
+
 
 *   https://packagecontrol.io/packages/Typescript
