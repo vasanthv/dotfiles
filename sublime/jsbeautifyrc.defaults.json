@@ -30,6 +30,7 @@
         // Lines should wrap at next opportunity after this number of characters (0 disables)
         "wrap_line_length": 0
     },
+
     "html":
     {
         // Rules added here apply only to HTML-like files, as determined by the
@@ -45,6 +46,7 @@
         // List of tags that should not be reformatted.  This should generally not be needed. 
         "unformatted": [],
     },
+
     "css":
     {
         // Rules added here apply only to CSS-like files, as determined by the
@@ -58,6 +60,7 @@
         // Separate selectors with newline or not (e.g. "a,\nbr" or "a, br")
         "selector_separator_newline": true
     },
+
     "js":
     {
         // Rules added here apply only to JS-like files, as determined by the
@@ -91,6 +94,7 @@
         // Should printable characters in strings encoded in \xNN notation be unescaped, "example" vs "\x65\x78\x61\x6d\x70\x6c\x65"
         "unescape_strings": false
     },
+
     "json":
     {
         // Rules added here apply only to JSON-like files, as determined by the
