@@ -13,6 +13,7 @@ My environment setup guide. **Current Mac setup**.
 -   https://www.sublimetext.com/
 -   https://www.sublimemerge.com/
 -   https://www.dropbox.com/install
+-   https://www.todoist.com
 -   https://www.getpostman.com/apps
 -   http://colorslurp.com/
 -   https://apps.apple.com/us/app/dato/id1470584107?mt=12 || https://www.mowglii.com/itsycal/
