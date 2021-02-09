@@ -46,6 +46,8 @@
 		"unformatted": [],
 		// Wrap attributes to new lines [auto|force|force-aligned|force-expand-multiline|aligned-multiple|preserve|preserve-aligned]
 		"wrap_attributes": "preserve-aligned",
+		// Maximum number of line breaks to be preserved in one chunk (0 disables)
+		"max_preserve_newlines": 1,
 	},
 	"css":
 	{
@@ -59,6 +61,8 @@
 		"selector_separator": " ",
 		// Separate selectors with newline or not (e.g. "a,\nbr" or "a, br")
 		"selector_separator_newline": true,
+		// Maximum number of line breaks to be preserved in one chunk (0 disables)
+		"max_preserve_newlines": 1,
 	},
 	"js":
 	{
@@ -104,7 +108,9 @@
 		// Preserve array indentation
 		"keep_array_indentation": false,
 		// Should printable characters in strings encoded in \xNN notation be unescaped, "example" vs "\x65\x78\x61\x6d\x70\x6c\x65"
-		"unescape_strings": false
+		"unescape_strings": false,
+		// Maximum number of line breaks to be preserved in one chunk (0 disables)
+		"max_preserve_newlines": 1,
 	},
 	"custom":
 	{
