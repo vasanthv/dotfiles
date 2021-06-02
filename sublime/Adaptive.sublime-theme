@@ -1,0 +1,14 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+		{
+			"class": "sidebar_label",
+			"font.face": "Hack",
+			"font.size": 12
+		},
+	]
+}

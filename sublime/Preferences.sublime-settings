@@ -4,14 +4,16 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 1,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"detect_indentation": false,
 	"draw_white_space": "none",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Hack",
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
-	"ignored_packages": [
-		"Vintage"
+	"ignored_packages":
+	[
+		"Vintage",
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
@@ -27,10 +29,8 @@
 	"show_definitions": false,
 	"show_tab_close_buttons": true,
 	"spell_check": false,
-	"theme": "One Dark.sublime-theme",
-	"tree_animation_enabled": false,
-
 	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"detect_indentation": false
+	"tree_animation_enabled": false,
 }
