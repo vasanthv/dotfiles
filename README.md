@@ -29,3 +29,6 @@ My environment setup guide. **Current Mac setup**.
 -   https://www.whatsapp.com/download
 -   https://apps.apple.com/us/app/twitter/id1482454543?mt=12 (Twitter)
 -
+
+# Theme for Terminal & sublime
+https://draculatheme.com/
