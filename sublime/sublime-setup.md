@@ -14,7 +14,8 @@ https://packagecontrol.io/installation
 - https://packagecontrol.io/packages/SublimeLinter-eslint - linting
 - https://packagecontrol.io/packages/SublimeLinter-tslint
 - https://packagecontrol.io/packages/tern_for_sublime
-* https://packagecontrol.io/packages/LSP - code completion
-* https://github.com/sublimelsp/LSP-typescript - code completion
+- https://packagecontrol.io/packages/SublimeCodeIntel
+- https://packagecontrol.io/packages/LSP - code completion
+- https://github.com/sublimelsp/LSP-typescript - code completion
 
 * https://packagecontrol.io/packages/Typescript
